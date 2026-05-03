@@ -3,7 +3,7 @@ This project controls a physical rocket robot using Bottango animations, Arduino
 
 ## Overview
 
-Bottango is used to map joints to servos and generate animation code. Arduino executes the motion, and an ESP32 enables wireless control through a browser.
+Bottango is used to map joints to servos and generate animation code. An ESP32 executes the motion and enables wireless control through a browser.
 
 ## Structure
 
