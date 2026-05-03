@@ -1,5 +1,5 @@
 # Bottango Animations – RL Rocket Robot
-This project controls a physical rocket robot using Bottango animations, Arduino-based servo control, and browser-based control via ESP32.
+This project controls a physical rocket robot using Bottango animations and browser-based control via ESP32.
 
 ## Overview
 
