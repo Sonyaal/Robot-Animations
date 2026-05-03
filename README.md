@@ -20,7 +20,7 @@ Bottango is used to map joints to servos and generate animation code. An ESP32 e
 
 ## WiFi Setup (ESP32)
 
-Create a file `wifi_config.h` with your credentials:
+Create a file `wifi_config.h` in BottangoArduinoDriver/ with your credentials:
 
 ```cpp
 #pragma once
