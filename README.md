@@ -16,7 +16,7 @@ Bottango is used to map joints to servos and generate animation code. An ESP32 e
 1. Open `BottangoArduinoDriver.ino` in the Arduino IDE
 2. Upload to your board
 3. Power the servos
-4. Connect via ESP32 (optional) and run animations
+4. Connect via ESP32 and run animations
 
 ## WiFi Setup (ESP32)
 
