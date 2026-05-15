@@ -1,5 +1,5 @@
 # Animations – RL Robot
-This project controls a physical rocket robot using Bottango animations and browser-based control via ESP32.
+This project controls a physical robot using Bottango animations and browser-based control via ESP32.
 
 ## Overview
 
@@ -42,5 +42,9 @@ wifi_config.h
 ## Demo
 <img width="3024" height="1784" alt="bottango_demo" src="https://github.com/user-attachments/assets/e70553d1-65a7-4d38-82e9-01fdd3e783c9" />
 
-## RL in Action
+## Reinforcement Learning
+
+The robot also supports reinforcement learning–based movement training and policy testing.
+
+- RL training/codebase: [Rocket RL Repository](https://github.com/uscmakers/Rocket)
 <img width="1468" height="842" alt="rl" src="https://github.com/user-attachments/assets/9d09e75c-dcae-4e34-9133-602a30ada8ff" />
